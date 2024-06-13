@@ -1,0 +1,4 @@
+lora_model
+data/questions/*
+data/summarize/*
+.DS_Store
